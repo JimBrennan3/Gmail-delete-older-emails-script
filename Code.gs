@@ -1,7 +1,7 @@
 // Source code from: https://github.com/JimBrennan3/Gmail-delete-older-emails-script
 
 // Moves all messages to Gmail Trash that:
-// 1. have a label of 'Delete-older-'+numDays+'-days' e.g. Delete-older-15-days or Delete-older-30-days labeled messages.
+// 1. have a label of 'Delete-older-'+numDays+'-days' e.g. Delete-older-15-days or Delete-older-30-days labeled messages, and
 // 2. the message is older than numDays.
 function batchDeleteNumDays(numDays) {
   var searchDate = new Date()
