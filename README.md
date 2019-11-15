@@ -9,7 +9,7 @@ The solution is auto-label the relevant emails with a 'Delete-older-15-days' or 
 1. Log into your google account at https://script.google.com
 1. Select the 'New project' button in the upper left
 1. Rename the 'Untitled project' to something like 'Cleanup Gmail Email'
-1. Copy the Code.gs from this github repo to the Code.gs of the new project
+1. Copy the Code.gs contents from this github repo to the Code.gs of the new project
 1. Hit the white right arrow with blue background in the upper left to go back to the 'Google Apps Script Dashboard'
 1. You should be able to see the 'Cleanup Gmail Email' Project listed in the 'My Projects' tab
 
